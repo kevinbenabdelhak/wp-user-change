@@ -3,7 +3,7 @@
 * Plugin Name: WP User Change
 * Plugin URI: https://kevin-benabdelhak.fr/plugins/wp-user-change/
 * Description: WP User Change est un plugin WordPress qui permet aux administrateurs de se connecter en tant qu'un autre utilisateur. Configurez une URL de redirection personnalisée.
-* Version: 1.0
+* Version: 1.1
 * Author: Kevin Benabdelhak
 * Author URI: https://kevin-benabdelhak.fr/
 * Contributors: kevinbenabdelhak
